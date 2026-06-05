@@ -315,11 +315,11 @@
 			</media:scenes>
 			<media:group>
 				<media:subTitle type="text/vtt" lang="en-us" href="https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/c69c0cf6-b2e3-4677-a155-85d2a17e62ad/text.vtt?akamai_token=exp=1796409289~acl=/media/v1/text/vtt/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/c69c0cf6-b2e3-4677-a155-85d2a17e62ad/text.vtt*~hmac=d00de6a25a2643945cbfe835e3738ad0868f3987bff0cc515f28e68701ade56f"/>
-				<media:content isDefault="false" medium="video" duration="2328" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/10s/master.m3u8?fastly_token=NmIxMzA3YzlfY2ZmMzUwZWU0NGY5OTNlZjlhN2Y1ZTc1MjgwZTI5OGIwZWZiZGY0NTUxMTY2MDRmNmI0MmM4MDMyNWY4MDUxMw%3D%3D&amp;pubid=694940094001" type="application/x-mpegURL">
+				<media:content isDefault="false" medium="video" duration="2328" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/10s/master.m3u8?fastly_token=NmIxMzA3YzlfY2ZmMzUwZWU0NGY5OTNlZjlhN2Y1ZTc1MjgwZTI5OGIwZWZiZGY0NTUxMTY2MDRmNmI0MmM4MDMyNWY4MDUxMw%3D%3D&pubid=694940094001" type="application/x-mpegURL">
 					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
 					<media:copyright>2026 Fox News Channel</media:copyright>
 				</media:content>
-				<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/ab55ec36-b988-41e4-9deb-48fe57411728/main.mp4?akamai_token=exp=1796409289~acl=/media/v1/pmp4/static/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/ab55ec36-b988-41e4-9deb-48fe57411728/main.mp4*~hmac=88d98546800b34a41911e8db699559899f65619c85849bed1e00dd6f26d49832&amp;pubid=694940094001" duration="2328" bitrate="2684" fileSize="782714728" type="video/mp4">
+				<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/ab55ec36-b988-41e4-9deb-48fe57411728/main.mp4?akamai_token=exp=1796409289~acl=/media/v1/pmp4/static/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/ab55ec36-b988-41e4-9deb-48fe57411728/main.mp4*~hmac=88d98546800b34a41911e8db699559899f65619c85849bed1e00dd6f26d49832&pubid=694940094001" duration="2328" bitrate="2684" fileSize="782714728" type="video/mp4">
 					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
 					<media:copyright>2026 Fox News Channel</media:copyright>
 				</media:content>
@@ -331,7 +331,7 @@
 			</media:group>
 			<dfpvideo:closedCaptionUrl language="en-us" type="text/vtt">https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/c69c0cf6-b2e3-4677-a155-85d2a17e62ad/text.vtt?akamai_token=exp=1796409289~acl=/media/v1/text/vtt/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/c69c0cf6-b2e3-4677-a155-85d2a17e62ad/text.vtt*~hmac=d00de6a25a2643945cbfe835e3738ad0868f3987bff0cc515f28e68701ade56f</dfpvideo:closedCaptionUrl>
 			<dfpvideo:cuepoints>803,1298,1715,2005,2178</dfpvideo:cuepoints>
-			<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/10s/master.m3u8?fastly_token=NmIxMzA3YzlfY2ZmMzUwZWU0NGY5OTNlZjlhN2Y1ZTc1MjgwZTI5OGIwZWZiZGY0NTUxMTY2MDRmNmI0MmM4MDMyNWY4MDUxMw%3D%3D&amp;pubid=694940094001</dfpvideo:ingestUrl>
+			<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/82e2652d-a565-4671-a822-674e12feb1ea/10s/master.m3u8?fastly_token=NmIxMzA3YzlfY2ZmMzUwZWU0NGY5OTNlZjlhN2Y1ZTc1MjgwZTI5OGIwZWZiZGY0NTUxMTY2MDRmNmI0MmM4MDMyNWY4MDUxMw%3D%3D&pubid=694940094001</dfpvideo:ingestUrl>
 			<dfpvideo:lastMediaModifiedDate>2026-06-05T04:31:50.710Z</dfpvideo:lastMediaModifiedDate>
 			<dfpvideo:lastModifiedDate>2026-06-05T04:31:50.710Z</dfpvideo:lastModifiedDate>
 			<dfpvideo:contentID>6397611197112</dfpvideo:contentID>
