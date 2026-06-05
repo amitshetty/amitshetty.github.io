@@ -273,65 +273,6 @@
 			<publisher>Fox News</publisher>
 		</item>
 		
-		<item>
-			<title>The Ingraham Angle - Thursday, June 4</title>
-			<link>https://video.foxnews.com/v/6397612708112/?playlist_id=5556999982001</link>
-			<description>Cutting through the Washington chatter to speak directly with people who are impacted by the news.</description>
-			<dc:description>Ingraham Angle, California Elections, Ohio Fraud, Platner Toxic, ICE, Protests,</dc:description>
-			<category>full_episode</category>
-			<media:category>full_episode</media:category>
-			<category>full_episode/the_ingraham_angle</category>
-			<media:category>full_episode/the_ingraham_angle</media:category>
-			<pubDate>Fri, 05 Jun 2026 01:02:15 EDT</pubDate>
-			<guid isPermaLink="false">6397612708112</guid>
-			<dc:date>2026-06-05T08:50:19.170Z</dc:date>
-			<dc:source>Fox News</dc:source>
-			<dc:creator/>
-			<dc:contributor/>
-			<itunes:author>Fox News</itunes:author>
-			<itunes:summary>Cutting through the Washington chatter to speak directly with people who are impacted by the news.</itunes:summary>
-			<itunes:explicit>clean</itunes:explicit>
-			<itunes:duration>00:33:13</itunes:duration>
-			<media:restriction relationship="allow" type="uri">urn:protected</media:restriction>
-			<media:status state="active"/>
-			<media:scenes>
-				<sceneStartTime>00:00:00</sceneStartTime>
-				<sceneEndTime>00:15:30</sceneEndTime>
-			</media:scenes>
-			<media:scenes>
-				<sceneStartTime>00:15:30</sceneStartTime>
-				<sceneEndTime>00:22:28</sceneEndTime>
-			</media:scenes>
-			<media:scenes>
-				<sceneStartTime>00:22:28</sceneStartTime>
-				<sceneEndTime>00:30:10</sceneEndTime>
-			</media:scenes>
-			<media:group>
-				<media:subTitle type="text/vtt" lang="en-us" href="https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/b5bc7292-45f9-4f0b-88b4-0553e7c4a9ef/text.vtt?akamai_token=exp=1796423331~acl=/media/v1/text/vtt/clear/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/b5bc7292-45f9-4f0b-88b4-0553e7c4a9ef/text.vtt*~hmac=09dfb464ae0171610b85d5e8c309548184c6001e0981e37e57bde6b3e4ef23c6"/>
-				<media:content isDefault="false" medium="video" duration="1993" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/10s/master.m3u8?fastly_token=NmIxMzNlYTNfN2Q3ZTYyMTdlYjg2YzkxYzE2MzZmYzRmMzcwOWZhYWFhYWYyYmNmZDUwZjNhZDJiMDg5ZDg5YjA0NzQzY2JkYg%3D%3D&amp;pubid=694940094001" type="application/x-mpegURL">
-					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
-					<media:copyright>2026 Fox News Channel</media:copyright>
-				</media:content>
-				<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/37acd47d-149a-4f10-9765-2e56687d98a5/main.mp4?akamai_token=exp=1796423331~acl=/media/v1/pmp4/static/clear/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/37acd47d-149a-4f10-9765-2e56687d98a5/main.mp4*~hmac=4db1364aa679f397f377ef6c5df2ff8bbd9d76cb30d0fb82ff6cf2516f7138bd&amp;pubid=694940094001" duration="1993" bitrate="2686" fileSize="670606222" type="video/mp4">
-					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
-					<media:copyright>2026 Fox News Channel</media:copyright>
-				</media:content>
-				<title>The Ingraham Angle - Thursday, June 4</title>
-				<media:description type="plain">Cutting through the Washington chatter to speak directly with people who are impacted by the news.</media:description>
-				<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6397612708112&amp;d=video.foxnews.com" width="640" height="360"/>
-				<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/fce62601-1a34-4c23-b725-53da2b74c248/1280x720/match/image.jpg?pubId=694940094001" width="320" height="240"/>
-				<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/fce62601-1a34-4c23-b725-53da2b74c248/1280x720/match/image.jpg?pubId=694940094001"/>
-			</media:group>
-			<dfpvideo:closedCaptionUrl language="en-us" type="text/vtt">https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/b5bc7292-45f9-4f0b-88b4-0553e7c4a9ef/text.vtt?akamai_token=exp=1796423331~acl=/media/v1/text/vtt/clear/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/b5bc7292-45f9-4f0b-88b4-0553e7c4a9ef/text.vtt*~hmac=09dfb464ae0171610b85d5e8c309548184c6001e0981e37e57bde6b3e4ef23c6</dfpvideo:closedCaptionUrl>
-			<dfpvideo:cuepoints>0,930,1348,1810</dfpvideo:cuepoints>
-			<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/a444a3a1-29c6-4f6b-8458-a12693abd6e8/10s/master.m3u8?fastly_token=NmIxMzNlYTNfN2Q3ZTYyMTdlYjg2YzkxYzE2MzZmYzRmMzcwOWZhYWFhYWYyYmNmZDUwZjNhZDJiMDg5ZDg5YjA0NzQzY2JkYg%3D%3D&amp;pubid=694940094001</dfpvideo:ingestUrl>
-			<dfpvideo:lastMediaModifiedDate>2026-06-05T05:02:15.270Z</dfpvideo:lastMediaModifiedDate>
-			<dfpvideo:lastModifiedDate>2026-06-05T08:50:19.170Z</dfpvideo:lastModifiedDate>
-			<dfpvideo:contentID>6397612708112</dfpvideo:contentID>
-			<dfpvideo:version>2</dfpvideo:version>
-			<daiimaContentSourceID>2056</daiimaContentSourceID>
-			<publisher>Fox News</publisher>
-		</item>
 		
 	</channel>
 </rss>
