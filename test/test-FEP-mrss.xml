@@ -1,0 +1,273 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dfpvideo="http://api.google.com/dfpvideo" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Most Recent Episodes</title>
+<atom:link href="https://moxie.foxnews.com/feed/playlist/5556999982001.xml" rel="self" type="application/rss+xml"/>
+<link>https://video.foxnews.com/?playlist_id=5556999982001</link>
+<description/>
+<image>
+<link>https://video.foxnews.com/?playlist_id=5556999982001</link>
+<title>Most Recent Episodes</title>
+<url>https://video.foxnews.com/images/foxnews/logo2.jpg</url>
+<height>97</height>
+<width>86</width>
+</image>
+<category>News & Politics</category>
+<itunes:image href="https://video.foxnews.com/images/foxnews/fn_600x600_solid.png"/>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:category text="News & Politics"/>
+<pubDate>Tue, 09 Jun 2026 05:42:39 EDT</pubDate>
+<dc:date>1970-01-01T00:00:00.000Z</dc:date>
+<language>en</language>
+<dc:language>en</dc:language>
+<ttl>10</ttl>
+<item>
+<title>Gutfeld! - Monday, June 8</title>
+<link>https://video.foxnews.com/v/6397967080112/?playlist_id=5556999982001</link>
+<description>Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.</description>
+<dc:description>Scott Pelley, Quentin Tarantino, President Trump</dc:description>
+<category>full_episode</category>
+<media:category>full_episode</media:category>
+<category>full_episode/gutfeld</category>
+<media:category>full_episode/gutfeld</media:category>
+<pubDate>Tue, 09 Jun 2026 05:40:57 EDT</pubDate>
+<guid isPermaLink="false">6397967080112</guid>
+<dc:date>2026-06-09T09:40:57.068Z</dc:date>
+<dc:source>Fox News</dc:source>
+<dc:creator/>
+<dc:contributor/>
+<itunes:author>Fox News</itunes:author>
+<itunes:summary>Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.</itunes:summary>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:duration>00:39:42</itunes:duration>
+<media:restriction relationship="allow" type="uri">urn:protected</media:restriction>
+<media:status state="active"/>
+<media:scenes>
+<sceneStartTime>00:15:00</sceneStartTime>
+<sceneEndTime>00:22:06</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:22:06</sceneStartTime>
+<sceneEndTime>00:27:57</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:27:57</sceneStartTime>
+<sceneEndTime>00:34:16</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:34:16</sceneStartTime>
+<sceneEndTime>00:39:23</sceneEndTime>
+</media:scenes>
+<media:group>
+<media:subTitle type="text/vtt" lang="en-us" href="https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/f88189f6-cd36-45df-9e06-9eb7fa26e064/text.vtt?akamai_token=exp=1796771838~acl=/media/v1/text/vtt/clear/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/f88189f6-cd36-45df-9e06-9eb7fa26e064/text.vtt*~hmac=e78ea2834e8bb03ac3b6ce60a852e572aba73b393e3e9eaf684e2be9465f4b35"/>
+<media:content isDefault="false" medium="video" duration="2382" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/10s/master.m3u8?fastly_token=NmIxODhmZmVfYzI1YjM3MzlmYzM2Mzk5ZDM0ZjcwZmVmZDFiZjJlMjYzNmM1MGEzMzljMzA4YTIwYWVlNjYxZGEzN2Y5MmUyYg%3D%3D&pubid=694940094001" type="application/x-mpegURL">
+<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
+<media:copyright>2026 Fox News Channel</media:copyright>
+</media:content>
+<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/b91cca5e-a789-4ead-814c-a66b0504bb35/main.mp4?akamai_token=exp=1796771838~acl=/media/v1/pmp4/static/clear/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/b91cca5e-a789-4ead-814c-a66b0504bb35/main.mp4*~hmac=81e07c82778624ce2312e2a272221d5ecc98cce5dda75fda81c1d53a7bd5c437&pubid=694940094001" duration="2382" bitrate="2685" fileSize="801291080" type="video/mp4">
+<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
+<media:copyright>2026 Fox News Channel</media:copyright>
+</media:content>
+<title>Gutfeld! - Monday, June 8</title>
+<media:description type="plain">Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.</media:description>
+<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6397967080112&d=video.foxnews.com" width="640" height="360"/>
+<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/9cb5ac37-9f19-47f6-aa6c-1ec690bff6f2/1280x720/match/image.jpg?pubId=694940094001" width="320" height="240"/>
+<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/9cb5ac37-9f19-47f6-aa6c-1ec690bff6f2/1280x720/match/image.jpg?pubId=694940094001"/>
+</media:group>
+<dfpvideo:closedCaptionUrl language="en-us" type="text/vtt">https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/f88189f6-cd36-45df-9e06-9eb7fa26e064/text.vtt?akamai_token=exp=1796771838~acl=/media/v1/text/vtt/clear/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/f88189f6-cd36-45df-9e06-9eb7fa26e064/text.vtt*~hmac=e78ea2834e8bb03ac3b6ce60a852e572aba73b393e3e9eaf684e2be9465f4b35</dfpvideo:closedCaptionUrl>
+<dfpvideo:cuepoints>900,1326,1677,2056,2363</dfpvideo:cuepoints>
+<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/62d52a4a-b23e-46d3-9140-275a71b00287/10s/master.m3u8?fastly_token=NmIxODhmZmVfYzI1YjM3MzlmYzM2Mzk5ZDM0ZjcwZmVmZDFiZjJlMjYzNmM1MGEzMzljMzA4YTIwYWVlNjYxZGEzN2Y5MmUyYg%3D%3D&pubid=694940094001</dfpvideo:ingestUrl>
+<dfpvideo:lastMediaModifiedDate>2026-06-09T09:40:57.068Z</dfpvideo:lastMediaModifiedDate>
+<dfpvideo:lastModifiedDate>2026-06-09T09:40:57.068Z</dfpvideo:lastModifiedDate>
+<dfpvideo:contentID>6397967080112</dfpvideo:contentID>
+<dfpvideo:version>2</dfpvideo:version>
+<daiimaContentSourceID>2056</daiimaContentSourceID>
+<publisher>Fox News</publisher>
+</item>
+<item>
+<title>Hannity - Monday, June 8</title>
+<link>https://video.foxnews.com/v/6397959543112/?playlist_id=5556999982001</link>
+<description>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</description>
+<dc:description>FNC, Socialism Grips The Democratic Party, Democrats Call To Abolish ICE, Mainstream Media Credibility, Scott Pelley Response, MN Fraud Investigation Update, California’s Slow Ballot Counting Process</dc:description>
+<category>full_episode</category>
+<media:category>full_episode</media:category>
+<category>full_episode/hannity</category>
+<media:category>full_episode/hannity</media:category>
+<pubDate>Tue, 09 Jun 2026 02:27:53 EDT</pubDate>
+<guid isPermaLink="false">6397959543112</guid>
+<dc:date>2026-06-09T06:27:53.453Z</dc:date>
+<dc:source>Fox News</dc:source>
+<dc:creator/>
+<dc:contributor/>
+<itunes:author>Fox News</itunes:author>
+<itunes:summary>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</itunes:summary>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:duration>00:43:33</itunes:duration>
+<media:restriction relationship="allow" type="uri">urn:protected</media:restriction>
+<media:status state="active"/>
+<media:scenes>
+<sceneStartTime>00:00:00</sceneStartTime>
+<sceneEndTime>00:21:49</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:21:49</sceneStartTime>
+<sceneEndTime>00:31:16</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:31:16</sceneStartTime>
+<sceneEndTime>00:36:06</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:36:06</sceneStartTime>
+<sceneEndTime>00:42:01</sceneEndTime>
+</media:scenes>
+<media:group>
+<media:subTitle type="text/vtt" lang="en-us" href="https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/d8d9d1f2-b282-4132-8529-6051333ef6cd/text.vtt?akamai_token=exp=1796762431~acl=/media/v1/text/vtt/clear/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/d8d9d1f2-b282-4132-8529-6051333ef6cd/text.vtt*~hmac=968e34bbd3025025d259f5c8d197cab525334d4a848a48dd8ae47f7c19498cc2"/>
+<media:content isDefault="false" medium="video" duration="2613" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/10s/master.m3u8?fastly_token=NmIxODZiM2ZfNGY0ZTc2ODkyZmIwN2M4NGI0MmNkNzgyMzk5MWRiYWVlMGE2ZGU2NTc4ZTljMGE0ZDgxMzdhOTczZDFmZTE5Mg%3D%3D&pubid=694940094001" type="application/x-mpegURL">
+<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
+<media:copyright>2026 Fox News Channel</media:copyright>
+</media:content>
+<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/fdaa37de-c1c6-4171-986b-be0f9bb68090/main.mp4?akamai_token=exp=1796762431~acl=/media/v1/pmp4/static/clear/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/fdaa37de-c1c6-4171-986b-be0f9bb68090/main.mp4*~hmac=e5b2566276b5ff28ca6aae7e64a0b18d9604f53f58ffe6d6aaac221f1d3f8f84&pubid=694940094001" duration="2613" bitrate="2679" fileSize="877111030" type="video/mp4">
+<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
+<media:copyright>2026 Fox News Channel</media:copyright>
+</media:content>
+<title>Hannity - Monday, June 8</title>
+<media:description type="plain">Sean Hannity interviews political figures and newsmakers and offers his own perspective.</media:description>
+<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6397959543112&d=video.foxnews.com" width="640" height="360"/>
+<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/6cdad793-b17d-43b4-86b7-e1c4a1c72421/1280x720/match/image.jpg?pubId=694940094001" width="320" height="240"/>
+<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/6cdad793-b17d-43b4-86b7-e1c4a1c72421/1280x720/match/image.jpg?pubId=694940094001"/>
+</media:group>
+<dfpvideo:closedCaptionUrl language="en-us" type="text/vtt">https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/d8d9d1f2-b282-4132-8529-6051333ef6cd/text.vtt?akamai_token=exp=1796762431~acl=/media/v1/text/vtt/clear/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/d8d9d1f2-b282-4132-8529-6051333ef6cd/text.vtt*~hmac=968e34bbd3025025d259f5c8d197cab525334d4a848a48dd8ae47f7c19498cc2</dfpvideo:closedCaptionUrl>
+<dfpvideo:cuepoints>0,1309,1876,2166,2521</dfpvideo:cuepoints>
+<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/5bf3b4e2-8428-4613-b911-80fb52b6e76e/10s/master.m3u8?fastly_token=NmIxODZiM2ZfNGY0ZTc2ODkyZmIwN2M4NGI0MmNkNzgyMzk5MWRiYWVlMGE2ZGU2NTc4ZTljMGE0ZDgxMzdhOTczZDFmZTE5Mg%3D%3D&pubid=694940094001</dfpvideo:ingestUrl>
+<dfpvideo:lastMediaModifiedDate>2026-06-09T06:27:53.453Z</dfpvideo:lastMediaModifiedDate>
+<dfpvideo:lastModifiedDate>2026-06-09T06:27:53.453Z</dfpvideo:lastModifiedDate>
+<dfpvideo:contentID>6397959543112</dfpvideo:contentID>
+<dfpvideo:version>2</dfpvideo:version>
+<daiimaContentSourceID>2056</daiimaContentSourceID>
+<publisher>Fox News</publisher>
+</item>
+<item>
+<title>Jesse Watters Primetime - Monday, June 8</title>
+<link>https://video.foxnews.com/v/6397946403112/?playlist_id=5556999982001</link>
+<description>Jesse Watters speaks with newsmakers from across the country.</description>
+<dc:description>JD Vance, Trump, NBA Finals, Voter ID, Israel</dc:description>
+<category>full_episode</category>
+<media:category>full_episode</media:category>
+<category>full_episode/jesse_watters_primetime</category>
+<media:category>full_episode/jesse_watters_primetime</media:category>
+<pubDate>Mon, 08 Jun 2026 23:02:54 EDT</pubDate>
+<guid isPermaLink="false">6397946403112</guid>
+<dc:date>2026-06-09T03:02:54.034Z</dc:date>
+<dc:source>Fox News</dc:source>
+<dc:creator/>
+<dc:contributor/>
+<itunes:author>Fox News</itunes:author>
+<itunes:summary>Jesse Watters speaks with newsmakers from across the country.</itunes:summary>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:duration>00:40:03</itunes:duration>
+<media:restriction relationship="allow" type="uri">urn:protected</media:restriction>
+<media:status state="active"/>
+<media:scenes>
+<sceneStartTime>00:14:43</sceneStartTime>
+<sceneEndTime>00:24:23</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:24:23</sceneStartTime>
+<sceneEndTime>00:33:21</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:33:21</sceneStartTime>
+<sceneEndTime>00:37:40</sceneEndTime>
+</media:scenes>
+<media:group>
+<media:subTitle type="text/vtt" lang="en-us" href="https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/6faf4a03-617e-4f61-b052-698f11cadbe6/text.vtt?akamai_token=exp=1796758593~acl=/media/v1/text/vtt/clear/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/6faf4a03-617e-4f61-b052-698f11cadbe6/text.vtt*~hmac=21db9ae615962050a5c1d3b2aa3636a23ce2eb28e8dd46991d2f85bba9ceae26"/>
+<media:content isDefault="false" medium="video" duration="2403" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/10s/master.m3u8?fastly_token=NmIxODVjNDFfMjkyOGUyNDNjZDc3NjI1ZTE2YmVjNDdmNWZiYTFiOTA3YjBhMTFlZGQ1ODU1Zjc3YjhmYzZhMTI2Njc2MzUwMg%3D%3D&pubid=694940094001" type="application/x-mpegURL">
+<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
+<media:copyright>2026 Fox News Channel</media:copyright>
+</media:content>
+<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/06a5c2c3-ff18-4a54-940b-81143b06092c/main.mp4?akamai_token=exp=1796758593~acl=/media/v1/pmp4/static/clear/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/06a5c2c3-ff18-4a54-940b-81143b06092c/main.mp4*~hmac=27325ae22a0891b7b773759a13005b9c8c5be4fcd9900f4ff437bce5ad850bea&pubid=694940094001" duration="2403" bitrate="2692" fileSize="810342950" type="video/mp4">
+<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
+<media:copyright>2026 Fox News Channel</media:copyright>
+</media:content>
+<title>Jesse Watters Primetime - Monday, June 8</title>
+<media:description type="plain">Jesse Watters speaks with newsmakers from across the country.</media:description>
+<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6397946403112&d=video.foxnews.com" width="640" height="360"/>
+<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/e27579ca-2adb-4eff-94d8-8c88cd2d8b87/1280x720/match/image.jpg?pubId=694940094001" width="320" height="240"/>
+<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/e27579ca-2adb-4eff-94d8-8c88cd2d8b87/1280x720/match/image.jpg?pubId=694940094001"/>
+</media:group>
+<dfpvideo:closedCaptionUrl language="en-us" type="text/vtt">https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/6faf4a03-617e-4f61-b052-698f11cadbe6/text.vtt?akamai_token=exp=1796758593~acl=/media/v1/text/vtt/clear/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/6faf4a03-617e-4f61-b052-698f11cadbe6/text.vtt*~hmac=21db9ae615962050a5c1d3b2aa3636a23ce2eb28e8dd46991d2f85bba9ceae26</dfpvideo:closedCaptionUrl>
+<dfpvideo:cuepoints>883,1463,2001,2260</dfpvideo:cuepoints>
+<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/d389b099-ec95-48c7-a707-e16923b33aa9/10s/master.m3u8?fastly_token=NmIxODVjNDFfMjkyOGUyNDNjZDc3NjI1ZTE2YmVjNDdmNWZiYTFiOTA3YjBhMTFlZGQ1ODU1Zjc3YjhmYzZhMTI2Njc2MzUwMg%3D%3D&pubid=694940094001</dfpvideo:ingestUrl>
+<dfpvideo:lastMediaModifiedDate>2026-06-09T03:02:54.034Z</dfpvideo:lastMediaModifiedDate>
+<dfpvideo:lastModifiedDate>2026-06-09T03:02:54.034Z</dfpvideo:lastModifiedDate>
+<dfpvideo:contentID>6397946403112</dfpvideo:contentID>
+<dfpvideo:version>2</dfpvideo:version>
+<daiimaContentSourceID>2056</daiimaContentSourceID>
+<publisher>Fox News</publisher>
+</item>
+<item>
+<title>The Five - Monday, June 8</title>
+<link>https://video.foxnews.com/v/6397953183112/?playlist_id=5556999982001</link>
+<description>A rotating panel of personalities discuss and debate the hot issues from politics to pop culture.</description>
+<dc:description>Trump, Israel-Iran Ceasefire, Penn Station Stabbing, Graham Platner Scandal, CBS News Controversy</dc:description>
+<category>full_episode</category>
+<media:category>full_episode</media:category>
+<category>full_episode/the_five</category>
+<media:category>full_episode/the_five</media:category>
+<pubDate>Tue, 09 Jun 2026 24:30:00 EDT</pubDate>
+<guid isPermaLink="false">6397953183112</guid>
+<dc:date>2026-06-09T04:30:00.575Z</dc:date>
+<dc:source>Fox News</dc:source>
+<dc:creator/>
+<dc:contributor/>
+<itunes:author>Fox News</itunes:author>
+<itunes:summary>A rotating panel of personalities discuss and debate the hot issues from politics to pop culture.</itunes:summary>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:duration>00:38:47</itunes:duration>
+<media:restriction relationship="allow" type="uri">urn:protected</media:restriction>
+<media:status state="active"/>
+<media:scenes>
+<sceneStartTime>00:11:24</sceneStartTime>
+<sceneEndTime>00:18:00</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:18:00</sceneStartTime>
+<sceneEndTime>00:26:23</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:26:23</sceneStartTime>
+<sceneEndTime>00:33:36</sceneEndTime>
+</media:scenes>
+<media:scenes>
+<sceneStartTime>00:33:36</sceneStartTime>
+<sceneEndTime>00:36:22</sceneEndTime>
+</media:scenes>
+<media:group>
+<media:subTitle type="text/vtt" lang="en-us" href="https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/76a380af-7727-44fa-9f27-eb32b35c0d71/text.vtt?akamai_token=exp=1796755028~acl=/media/v1/text/vtt/clear/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/76a380af-7727-44fa-9f27-eb32b35c0d71/text.vtt*~hmac=3492f9b40ab614a508802baa1c463691dc96180bd4fd24e64617642ded59ab7c"/>
+<media:content isDefault="false" medium="video" duration="2327" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/10s/master.m3u8?fastly_token=NmIxODRlNTRfYTAyNzNmNDAzYTY1NTdhZTU5NmQ0Y2VlYjYwNDk2ZjI5YTZlN2M2YTdkOWU2YmI3ZTRmODJmZTg3ZjZkNDRhOA%3D%3D&pubid=694940094001" type="application/x-mpegURL">
+<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
+<media:copyright>2026 Fox News Channel</media:copyright>
+</media:content>
+<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/d467e5d2-c0ba-4b64-b28f-825fd57327d8/main.mp4?akamai_token=exp=1796755028~acl=/media/v1/pmp4/static/clear/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/d467e5d2-c0ba-4b64-b28f-825fd57327d8/main.mp4*~hmac=915e84e38455b50af3384312e055e0e146bbe53049d028128b7258e3a5190a74&pubid=694940094001" duration="2327" bitrate="2689" fileSize="783843736" type="video/mp4">
+<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
+<media:copyright>2026 Fox News Channel</media:copyright>
+</media:content>
+<title>The Five - Monday, June 8</title>
+<media:description type="plain">A rotating panel of personalities discuss and debate the hot issues from politics to pop culture.</media:description>
+<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6397953183112&d=video.foxnews.com" width="640" height="360"/>
+<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/f75c2bec-93fc-4650-9ae0-570acf3c9e22/1280x720/match/image.jpg?pubId=694940094001" width="320" height="240"/>
+<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/f75c2bec-93fc-4650-9ae0-570acf3c9e22/1280x720/match/image.jpg?pubId=694940094001"/>
+</media:group>
+<dfpvideo:closedCaptionUrl language="en-us" type="text/vtt">https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/76a380af-7727-44fa-9f27-eb32b35c0d71/text.vtt?akamai_token=exp=1796755028~acl=/media/v1/text/vtt/clear/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/76a380af-7727-44fa-9f27-eb32b35c0d71/text.vtt*~hmac=3492f9b40ab614a508802baa1c463691dc96180bd4fd24e64617642ded59ab7c</dfpvideo:closedCaptionUrl>
+<dfpvideo:cuepoints>684,1080,1583,2016,2182</dfpvideo:cuepoints>
+<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/ddbae425-5504-43bb-aa51-69f764e91689/10s/master.m3u8?fastly_token=NmIxODRlNTRfYTAyNzNmNDAzYTY1NTdhZTU5NmQ0Y2VlYjYwNDk2ZjI5YTZlN2M2YTdkOWU2YmI3ZTRmODJmZTg3ZjZkNDRhOA%3D%3D&pubid=694940094001</dfpvideo:ingestUrl>
+<dfpvideo:lastMediaModifiedDate>2026-06-09T04:30:00.575Z</dfpvideo:lastMediaModifiedDate>
+<dfpvideo:lastModifiedDate>2026-06-09T04:30:00.575Z</dfpvideo:lastModifiedDate>
+<dfpvideo:contentID>6397953183112</dfpvideo:contentID>
+<dfpvideo:version>2</dfpvideo:version>
+<daiimaContentSourceID>2056</daiimaContentSourceID>
+<publisher>Fox News</publisher>
+</item>
+
+</channel>
+</rss>
