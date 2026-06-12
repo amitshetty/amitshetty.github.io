@@ -20,6 +20,79 @@
 <language>en</language>
 <dc:language>en</dc:language>
 <ttl>10</ttl>
+
+
+<item>
+	<title>The Five - Thursday, June 11</title>
+	<link>https://video.foxnews.com/v/6398214846112/?playlist_id=5556999982001</link>
+	<description>A rotating panel of personalities discuss and debate the hot issues from politics to pop culture.</description>
+	<dc:description>Trump, Iran, Karmelo Anthony, ICE, Teen Bans</dc:description>
+	<category>full_episode</category>
+	<media:category>full_episode</media:category>
+	<category>full_episode/the_five</category>
+	<media:category>full_episode/the_five</media:category>
+	<pubDate>Fri, 12 Jun 2026 02:03:21 EDT</pubDate>
+	<guid isPermaLink="false">6398214846112</guid>
+	<dc:date>2026-06-12T06:03:21.008Z</dc:date>
+	<dc:source>Fox News</dc:source>
+	<dc:creator/>
+	<dc:contributor/>
+	<itunes:author>Fox News</itunes:author>
+	<itunes:summary>A rotating panel of personalities discuss and debate the hot issues from politics to pop culture.</itunes:summary>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:duration>00:39:02</itunes:duration>
+	<media:restriction relationship="allow" type="uri">urn:protected</media:restriction>
+	<media:status state="active"/>
+	<media:scenes>
+		<sceneStartTime>00:00:00</sceneStartTime>
+		<sceneEndTime>00:12:38</sceneEndTime>
+	</media:scenes>
+	<media:scenes>
+		<sceneStartTime>00:12:38</sceneStartTime>
+		<sceneEndTime>00:23:18</sceneEndTime>
+	</media:scenes>
+	<media:scenes>
+		<sceneStartTime>00:23:18</sceneStartTime>
+		<sceneEndTime>00:31:29</sceneEndTime>
+	</media:scenes>
+	<media:scenes>
+		<sceneStartTime>00:31:29</sceneStartTime>
+		<sceneEndTime>00:35:55</sceneEndTime>
+	</media:scenes>
+	<media:scenes>
+		<sceneStartTime>00:35:55</sceneStartTime>
+		<sceneEndTime>00:37:52</sceneEndTime>
+	</media:scenes>
+	<media:group>
+		<media:subTitle type="text/vtt" lang="en-us" href="https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/b4999a3c-af04-4330-9db0-065307abdc04/text.vtt?akamai_token=exp=1797018310~acl=/media/v1/text/vtt/clear/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/b4999a3c-af04-4330-9db0-065307abdc04/text.vtt*~hmac=2b60fae75ad4bb468bc14a891ecd48e31bf52f591d04184730ef4e5d12a23dda"/>
+		<media:content isDefault="false" medium="video" duration="2342" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/10s/master.m3u8?fastly_token=NmIxYzUyYzZfNjM5ZTU1MWFjODQzMWU4Zjc2NDVjNDYzYzhhNjQ3N2I2YWNhNmQwY2FmMmJlZTBiZmU1M2IzMmU5ZmU2NzgxOA%3D%3D&amp;pubid=694940094001" type="application/x-mpegURL">
+			<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
+			<media:copyright>2026 Fox News Channel</media:copyright>
+		</media:content>
+		<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/867251e3-294c-4e00-8252-2d4fde7f4871/main.mp4?akamai_token=exp=1797018310~acl=/media/v1/pmp4/static/clear/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/867251e3-294c-4e00-8252-2d4fde7f4871/main.mp4*~hmac=01266190a035f04388717a20852dcae9e01465a15caa3efc56b3061dcaed6e8a&amp;pubid=694940094001" duration="2342" bitrate="2685" fileSize="787990848" type="video/mp4">
+			<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
+			<media:copyright>2026 Fox News Channel</media:copyright>
+		</media:content>
+		<title>The Five - Thursday, June 11</title>
+		<media:description type="plain">A rotating panel of personalities discuss and debate the hot issues from politics to pop culture.</media:description>
+		<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6398214846112&amp;d=video.foxnews.com" width="640" height="360"/>
+		<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/fbebd3dc-034d-499f-8f60-43e8a16ca445/1280x720/match/image.jpg?pubId=694940094001" width="320" height="240"/>
+		<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/fbebd3dc-034d-499f-8f60-43e8a16ca445/1280x720/match/image.jpg?pubId=694940094001"/>
+	</media:group>
+	<dfpvideo:closedCaptionUrl language="en-us" type="text/vtt">https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/b4999a3c-af04-4330-9db0-065307abdc04/text.vtt?akamai_token=exp=1797018310~acl=/media/v1/text/vtt/clear/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/b4999a3c-af04-4330-9db0-065307abdc04/text.vtt*~hmac=2b60fae75ad4bb468bc14a891ecd48e31bf52f591d04184730ef4e5d12a23dda</dfpvideo:closedCaptionUrl>
+	<dfpvideo:cuepoints>0,758,1398,1889,2155,2272</dfpvideo:cuepoints>
+	<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/b4210751-36c0-43b7-81a8-31040a67e6d8/10s/master.m3u8?fastly_token=NmIxYzUyYzZfNjM5ZTU1MWFjODQzMWU4Zjc2NDVjNDYzYzhhNjQ3N2I2YWNhNmQwY2FmMmJlZTBiZmU1M2IzMmU5ZmU2NzgxOA%3D%3D&amp;pubid=694940094001</dfpvideo:ingestUrl>
+	<dfpvideo:lastMediaModifiedDate>2026-06-12T06:03:21.008Z</dfpvideo:lastMediaModifiedDate>
+	<dfpvideo:lastModifiedDate>2026-06-12T06:03:21.008Z</dfpvideo:lastModifiedDate>
+	<dfpvideo:contentID>6398214846112</dfpvideo:contentID>
+	<dfpvideo:version>2</dfpvideo:version>
+	<daiimaContentSourceID>2732925</daiimaContentSourceID>
+	<publisher>Fox News</publisher>
+</item>
+
+
+
+
 <item>
 <title>Gutfeld! - Monday, June 8</title>
 <link>https://video.foxnews.com/v/6397967080112/?playlist_id=5556999982001</link>
@@ -80,7 +153,7 @@
 <dfpvideo:lastModifiedDate>2026-06-09T09:40:57.068Z</dfpvideo:lastModifiedDate>
 <dfpvideo:contentID>6397967080112</dfpvideo:contentID>
 <dfpvideo:version>2</dfpvideo:version>
-<daiimaContentSourceID>2056</daiimaContentSourceID>
+<daiimaContentSourceID>2732925</daiimaContentSourceID>
 <publisher>Fox News</publisher>
 </item>
 <item>
@@ -143,7 +216,7 @@
 <dfpvideo:lastModifiedDate>2026-06-09T06:27:53.453Z</dfpvideo:lastModifiedDate>
 <dfpvideo:contentID>6397959543112</dfpvideo:contentID>
 <dfpvideo:version>2</dfpvideo:version>
-<daiimaContentSourceID>2056</daiimaContentSourceID>
+<daiimaContentSourceID>2732925</daiimaContentSourceID>
 <publisher>Fox News</publisher>
 </item>
 <item>
@@ -202,7 +275,7 @@
 <dfpvideo:lastModifiedDate>2026-06-09T03:02:54.034Z</dfpvideo:lastModifiedDate>
 <dfpvideo:contentID>6397946403112</dfpvideo:contentID>
 <dfpvideo:version>2</dfpvideo:version>
-<daiimaContentSourceID>2056</daiimaContentSourceID>
+<daiimaContentSourceID>2732925</daiimaContentSourceID>
 <publisher>Fox News</publisher>
 </item>
 <item>
@@ -265,7 +338,7 @@
 <dfpvideo:lastModifiedDate>2026-06-09T04:30:00.575Z</dfpvideo:lastModifiedDate>
 <dfpvideo:contentID>6397953183112</dfpvideo:contentID>
 <dfpvideo:version>2</dfpvideo:version>
-<daiimaContentSourceID>2056</daiimaContentSourceID>
+<daiimaContentSourceID>2732925</daiimaContentSourceID>
 <publisher>Fox News</publisher>
 </item>
 
