@@ -21,6 +21,56 @@
 <dc:language>en</dc:language>
 <ttl>10</ttl>
 
+		<item>
+			<title>Vance reacts to FBI foiling alleged plot targeting White House UFC event</title>
+			<link>https://video.foxnews.com/v/6398556363112/?playlist_id=1768193258001</link>
+			<description>Vice President JD Vance reacts to the FBI foiling an alleged terror plot targeting the White House UFC event. He credits federal law enforcement for preventing a tragedy and emphasized appreciation for those who keep the public safe.</description>
+			<dc:description>Vice President JD Vance reacts to the FBI foiling an alleged terror plot targeting the White House UFC event. He credits federal law enforcement for preventing a tragedy and emphasized appreciation for those who keep the public safe.</dc:description>
+			<category>vod_vertical</category>
+			<media:category>vod_vertical</media:category>
+			<category>primary_us</category>
+			<media:category>primary_us</media:category>
+			<category>on_air</category>
+			<media:category>on_air</media:category>
+			<pubDate>Tue, 16 Jun 2026 09:17:43 EDT</pubDate>
+			<guid isPermaLink="false">6398556363112</guid>
+			<dc:date>2026-06-16T13:19:07.243Z</dc:date>
+			<dc:source>Fox News</dc:source>
+			<dc:creator/>
+			<dc:contributor/>
+			<itunes:author>Fox News</itunes:author>
+			<itunes:summary>Vice President JD Vance reacts to the FBI foiling an alleged terror plot targeting the White House UFC event. He credits federal law enforcement for preventing a tragedy and emphasized appreciation for those who keep the public safe.</itunes:summary>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>00:00:37</itunes:duration>
+			<media:status state="active"/>
+			<enclosure url="https://vod.foxnews.com/media/v1/pmp4/static/clear/694940094001/f31e14bd-15a1-4647-ad94-9c34e881945c/40b9aae4-2064-4b29-b2d4-3a11fdb7d334/main.mp4" length="12624716" type="video/mp4"/>
+			<media:group>
+				<media:subTitle/>
+				<media:content isDefault="false" medium="video" duration="37" url="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/f31e14bd-15a1-4647-ad94-9c34e881945c/10s/master.m3u8?fastly_token=NmIyMmIwMDdfZDkzMWEwNTJiNDBiNzYxY2M2ZDMzYmRkYTlmYWJlNTJhNjZjZjhlZTU0NTIwYmE3N2JiMTA5Y2ZmNzkwNjM0ZA%3D%3D" type="application/x-mpegURL">
+					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
+					<media:copyright>2026 Fox News Channel</media:copyright>
+				</media:content>
+				<media:content isDefault="false" url="https://vod.foxnews.com/media/v1/pmp4/static/clear/694940094001/f31e14bd-15a1-4647-ad94-9c34e881945c/40b9aae4-2064-4b29-b2d4-3a11fdb7d334/main.mp4" duration="37" bitrate="2703" fileSize="12624716" type="video/mp4">
+					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
+					<media:copyright>2026 Fox News Channel</media:copyright>
+				</media:content>
+				<title>Vance reacts to FBI foiling alleged plot targeting White House UFC event</title>
+				<media:description type="plain">Vice President JD Vance reacts to the FBI foiling an alleged terror plot targeting the White House UFC event. He credits federal law enforcement for preventing a tragedy and emphasized appreciation for those who keep the public safe.</media:description>
+				<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6398556363112&amp;d=video.foxnews.com" width="640" height="360"/>
+				<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f31e14bd-15a1-4647-ad94-9c34e881945c/00a5ad8b-0429-4fc5-af44-1c53fc8f7ec7/1280x720/match/image.jpg" width="320" height="240"/>
+				<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f31e14bd-15a1-4647-ad94-9c34e881945c/00a5ad8b-0429-4fc5-af44-1c53fc8f7ec7/1280x720/match/image.jpg"/>
+			</media:group>
+			<dfpvideo:closedCaptionUrl/>
+			<dfpvideo:cuepoints/>
+			<dfpvideo:ingestUrl type="application/x-mpegURL">https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/f31e14bd-15a1-4647-ad94-9c34e881945c/10s/master.m3u8?fastly_token=NmIyMmIwMDdfZDkzMWEwNTJiNDBiNzYxY2M2ZDMzYmRkYTlmYWJlNTJhNjZjZjhlZTU0NTIwYmE3N2JiMTA5Y2ZmNzkwNjM0ZA%3D%3D</dfpvideo:ingestUrl>
+			<dfpvideo:lastMediaModifiedDate>2026-06-16T13:17:43.836Z</dfpvideo:lastMediaModifiedDate>
+			<dfpvideo:lastModifiedDate>2026-06-16T13:19:07.243Z</dfpvideo:lastModifiedDate>
+			<dfpvideo:contentID>6398556363112</dfpvideo:contentID>
+			<dfpvideo:version>2</dfpvideo:version>
+			<daiimaContentSourceID>2056</daiimaContentSourceID>
+			<publisher>Fox News</publisher>
+		</item>
+
 <item>
 	<title>Hannity - Thursday, June 12</title>
 	<link>https://video.foxnews.com/v/6398222356112/?playlist_id=5556999982001</link>
