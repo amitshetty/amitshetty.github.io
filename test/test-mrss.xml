@@ -23,6 +23,58 @@
 		<ttl>10</ttl>
 
 		<item>
+			<title>Fox News at Night - Monday, June 15</title>
+			<link>https://video.foxnews.com/v/6398539034112/?playlist_id=1768193258001</link>
+			<description>Hard news and analysis of compelling stories.</description>
+			<dc:description>South Lebanon, Iran Deal, Cornell</dc:description>
+			<category>full_episode</category>
+			<media:category>full_episode</media:category>
+			<category>full_episode/fox_news_@night</category>
+			<media:category>full_episode/fox_news_@night</media:category>
+			<pubDate>Tue, 16 Jun 2026 06:02:51 EDT</pubDate>
+			<guid isPermaLink="false">6398539034112</guid>
+			<dc:date>2026-06-16T10:02:51.139Z</dc:date>
+			<dc:source>Fox News</dc:source>
+			<dc:creator/>
+			<dc:contributor/>
+			<itunes:author>Fox News</itunes:author>
+			<itunes:summary>Hard news and analysis of compelling stories.</itunes:summary>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>00:32:04</itunes:duration>
+			<media:restriction relationship="allow" type="uri">urn:protected</media:restriction>
+			<media:status state="active"/>
+			<media:scenes>
+				<sceneStartTime>00:22:42</sceneStartTime>
+				<sceneEndTime>00:29:38</sceneEndTime>
+			</media:scenes>
+			<media:group>
+				<media:subTitle type="text/vtt" lang="en-us" href="https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/e849e633-96ab-4051-b0b8-7b37149764c2/text.vtt?akamai_token=exp=1797377572~acl=/media/v1/text/vtt/clear/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/e849e633-96ab-4051-b0b8-7b37149764c2/text.vtt*~hmac=8da40b388acff72cf73fc0e2f3c9916da048ab5ce32773eafc9895651dcd57b8"/>
+				<media:content isDefault="false" medium="video" duration="1924" url="https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/10s/master.m3u8?fastly_token=NmIyMWNlMjRfZjcwYjc0ZjNiZmFkNjE0YmY4NDg1YzBjYWEwOGZlOGQzNmQzZTkzNzRmMzdlNmE0NjBmZWE5OGRkNzkyMDI3ZA%3D%3D&amp;pubid=694940094001" type="application/x-mpegURL">
+					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
+					<media:copyright>2026 Fox News Channel</media:copyright>
+				</media:content>
+				<media:content isDefault="false" url="https://tokenvod.foxnews.com/media/v1/pmp4/static/clear/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/3f1c1c1c-fc08-4b79-8244-85e6c1be5542/main.mp4?akamai_token=exp=1797377572~acl=/media/v1/pmp4/static/clear/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/3f1c1c1c-fc08-4b79-8244-85e6c1be5542/main.mp4*~hmac=fe71994cba94a719b9aef97dae5b8ed3324467293dabb025c8e2d12c4fca566b&amp;pubid=694940094001" duration="1924" bitrate="2677" fileSize="645201710" type="video/mp4">
+					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
+					<media:copyright>2026 Fox News Channel</media:copyright>
+				</media:content>
+				<title>Fox News at Night - Monday, June 15</title>
+				<media:description type="plain">Hard news and analysis of compelling stories.</media:description>
+				<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6398539034112&amp;d=video.foxnews.com" width="640" height="360"/>
+				<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/00a0fe82-4d29-4b01-9aba-6f0a6736b796/1280x720/match/image.jpg?pubId=694940094001" width="320" height="240"/>
+				<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/00a0fe82-4d29-4b01-9aba-6f0a6736b796/1280x720/match/image.jpg?pubId=694940094001"/>
+			</media:group>
+			<dfpvideo:closedCaptionUrl language="en-us" type="text/vtt">https://tokenvod.foxnews.com/media/v1/text/vtt/clear/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/e849e633-96ab-4051-b0b8-7b37149764c2/text.vtt?akamai_token=exp=1797377572~acl=/media/v1/text/vtt/clear/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/e849e633-96ab-4051-b0b8-7b37149764c2/text.vtt*~hmac=8da40b388acff72cf73fc0e2f3c9916da048ab5ce32773eafc9895651dcd57b8</dfpvideo:closedCaptionUrl>
+			<dfpvideo:cuepoints>1362,1778</dfpvideo:cuepoints>
+			<dfpvideo:ingestUrl type="application/x-mpegURL">https://tokenvod.foxnews.com/manifest/v1/hls/v4/clear/990505083001/a94e8994-a400-4a82-8cb4-b8c49ed5f58e/10s/master.m3u8?fastly_token=NmIyMWNlMjRfZjcwYjc0ZjNiZmFkNjE0YmY4NDg1YzBjYWEwOGZlOGQzNmQzZTkzNzRmMzdlNmE0NjBmZWE5OGRkNzkyMDI3ZA%3D%3D&amp;pubid=694940094001</dfpvideo:ingestUrl>
+			<dfpvideo:lastMediaModifiedDate>2026-06-16T10:02:51.139Z</dfpvideo:lastMediaModifiedDate>
+			<dfpvideo:lastModifiedDate>2026-06-16T10:02:51.139Z</dfpvideo:lastModifiedDate>
+			<dfpvideo:contentID>6398539034112</dfpvideo:contentID>
+			<dfpvideo:version>2</dfpvideo:version>
+			<daiimaContentSourceID>2056</daiimaContentSourceID>
+			<publisher>Fox News</publisher>
+		</item>
+		
+		<item>
 			<title>Vance reacts to FBI foiling alleged plot targeting White House UFC event</title>
 			<link>https://video.foxnews.com/v/6398556363112/?playlist_id=1768193258001</link>
 			<description>Vice President JD Vance reacts to the FBI foiling an alleged terror plot targeting the White House UFC event. He credits federal law enforcement for preventing a tragedy and emphasized appreciation for those who keep the public safe.</description>
