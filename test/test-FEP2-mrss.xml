@@ -21,6 +21,66 @@
 <dc:language>en</dc:language>
 <ttl>10</ttl>
 
+	<item>
+			<title>Nearly 200 service memebrs compete in 2026 Warrior Games</title>
+			<link>https://video.foxnews.com/v/6398558718112/?playlist_id=1768193258001</link>
+			<description>Nearly 200 service members competed across 12 adaptive sports in the 2026 ‘Warrior Games.' All athletes have some form of service-related ailments like physical injuries, traumatic brain injuries, visual impairments and serious injury and PTSD.</description>
+			<dc:description>Nearly 200 service members competed across 12 adaptive sports in the 2026 ‘Warrior Games.' All athletes have some form of service-related ailments.</dc:description>
+			<category>military</category>
+			<media:category>military</media:category>
+			<category>military families</category>
+			<media:category>military families</media:category>
+			<category>army</category>
+			<media:category>army</media:category>
+			<category>navy</category>
+			<media:category>navy</media:category>
+			<category>coast guard</category>
+			<media:category>coast guard</media:category>
+			<category>air force</category>
+			<media:category>air force</media:category>
+			<category>space force</category>
+			<media:category>space force</media:category>
+			<category>sports</category>
+			<media:category>sports</media:category>
+			<pubDate>Tue, 16 Jun 2026 10:08:30 EDT</pubDate>
+			<guid isPermaLink="false">6398558718112</guid>
+			<dc:date>2026-06-16T14:24:27.126Z</dc:date>
+			<dc:source>Fox News</dc:source>
+			<dc:creator/>
+			<dc:contributor/>
+			<itunes:author>Fox News</itunes:author>
+			<itunes:summary>Nearly 200 service members competed across 12 adaptive sports in the 2026 ‘Warrior Games.' All athletes have some form of service-related ailments like physical injuries, traumatic brain injuries, visual impairments and serious injury and PTSD.</itunes:summary>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>00:02:27</itunes:duration>
+			<media:status state="active"/>
+			<enclosure url="https://vod.foxnews.com/media/v1/pmp4/static/clear/694940094001/b18ef3d6-4470-4198-b5a3-8ec0b1c8a719/e9096ca9-fdc9-45e6-81fb-2fa1f05fc523/main.mp4" length="49852749" type="video/mp4"/>
+			<media:group>
+				<media:subTitle/>
+				<media:content isDefault="false" medium="video" duration="147" url="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/b18ef3d6-4470-4198-b5a3-8ec0b1c8a719/10s/master.m3u8?fastly_token=NmIyMmEzODhfN2QwYjAxOTVjOWMyYjNhM2U5N2UzOTgwN2FhMzVjOWU4ZTA2MmE5OTM0NjRjM2NmMWRkMjVlNDk4ZTAxYTc2NA%3D%3D" type="application/x-mpegURL">
+					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="HLS_ALL"/>
+					<media:copyright>2026 Fox News Channel</media:copyright>
+				</media:content>
+				<media:content isDefault="false" url="https://vod.foxnews.com/media/v1/pmp4/static/clear/694940094001/b18ef3d6-4470-4198-b5a3-8ec0b1c8a719/e9096ca9-fdc9-45e6-81fb-2fa1f05fc523/main.mp4" duration="147" bitrate="2695" fileSize="49852749" type="video/mp4">
+					<media:category schema="http://mrss.akamai.com/user_agent_hint" label="PDL_HD"/>
+					<media:copyright>2026 Fox News Channel</media:copyright>
+				</media:content>
+				<title>Nearly 200 service memebrs compete in 2026 Warrior Games</title>
+				<media:description type="plain">Nearly 200 service members competed across 12 adaptive sports in the 2026 ‘Warrior Games.' All athletes have some form of service-related ailments like physical injuries, traumatic brain injuries, visual impairments and serious injury and PTSD.</media:description>
+				<media:player url="https://video.foxnews.com/v/video-embed.html?video_id=6398558718112&amp;d=video.foxnews.com" width="640" height="360"/>
+				<media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b18ef3d6-4470-4198-b5a3-8ec0b1c8a719/dd54c3b1-40fe-463c-a368-3e5ae5ab5c73/1280x720/match/image.jpg" width="320" height="240"/>
+				<media:image url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b18ef3d6-4470-4198-b5a3-8ec0b1c8a719/dd54c3b1-40fe-463c-a368-3e5ae5ab5c73/1280x720/match/image.jpg"/>
+			</media:group>
+			<dfpvideo:closedCaptionUrl/>
+			<dfpvideo:cuepoints/>
+			<dfpvideo:ingestUrl type="application/x-mpegURL">https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/b18ef3d6-4470-4198-b5a3-8ec0b1c8a719/10s/master.m3u8?fastly_token=NmIyMmEzODhfN2QwYjAxOTVjOWMyYjNhM2U5N2UzOTgwN2FhMzVjOWU4ZTA2MmE5OTM0NjRjM2NmMWRkMjVlNDk4ZTAxYTc2NA%3D%3D</dfpvideo:ingestUrl>
+			<dfpvideo:lastMediaModifiedDate>2026-06-16T14:08:30.320Z</dfpvideo:lastMediaModifiedDate>
+			<dfpvideo:lastModifiedDate>2026-06-16T14:24:27.126Z</dfpvideo:lastModifiedDate>
+			<dfpvideo:contentID>6398558718112</dfpvideo:contentID>
+			<dfpvideo:version>2</dfpvideo:version>
+			<daiimaContentSourceID>2733225</daiimaContentSourceID>
+			<publisher>Fox News</publisher>
+		</item>
+
 
 <item>
 	<title>Hannity - Thursday, June 12</title>
